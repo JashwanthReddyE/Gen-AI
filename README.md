@@ -1,2 +1,2 @@
 # Gen-AI
-#Repo of GenAI Resources
+Repo of GenAI Resources
